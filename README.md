@@ -33,4 +33,4 @@ This component requires `iOS 8.0+`.
 
 ## License
 
-JX_GCDTimerManager is provided under the MIT license. See LICENSE file for details.
+JX_RichTextRenderer is provided under the MIT license. See LICENSE file for details.
